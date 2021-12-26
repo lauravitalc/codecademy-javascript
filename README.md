@@ -4,11 +4,11 @@
 All of this content is part of codecademy courses. Some of them are PRO! I'm NOT making this content available for free, but sharing what I've done.
 
 Todo esse conteúdo é parte dos cursos do codecademy. Alguns deles são PRO! Não estou disponibilizando esse conteúdo gratuitamente, e sim apenas compartilhando o que tem sido feito por mim.
-### Syntax
+### Introduction
 
-#### [Kelvin Weather](https://github.com/lauravitalc/codecademy-javascript/blob/main/syntax-kelvin-weather.js)
+#### [Kelvin Weather](https://github.com/lauravitalc/codecademy-javascript/blob/main/introduction-kelvin-weather.js)
 
-#### [Dog Years](https://github.com/lauravitalc/codecademy-javascript/blob/main/syntax-dog-years.js)
+#### [Dog Years](https://github.com/lauravitalc/codecademy-javascript/blob/main/introduction-dog-years.js)
 
 ### Conditionals
 
