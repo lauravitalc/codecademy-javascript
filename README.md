@@ -7,16 +7,16 @@ Todo esse conteúdo é parte dos cursos do codecademy. Alguns deles são PRO! N�
 
 ### Conditionals
 
-#### Magic Eight Ball
+#### [Magic Eight Ball](https://github.com/lauravitalc/codecademy-javascript/blob/main/conditionals-magic-eight-ball.js)
 
-#### Race Day 
+#### [Race Day](https://github.com/lauravitalc/codecademy-javascript/blob/main/conditionals-race-day.js)
 
 ### Functions
 
-#### Paper, Rock, Scissors
+#### [Paper, Rock, Scissors](https://github.com/lauravitalc/codecademy-javascript/blob/main/functions-paper-rock-scissors.js)
 
-Play paper, rock and scissors with the computer.
+#### [Sleep Debt Calculator](https://github.com/lauravitalc/codecademy-javascript/blob/main/functions-sleep-debt-calculator.js)
 
-#### Sleep Debt Calculator
+### Scope
 
-The program will determine the actual and ideal hours of sleep for each night of the last week.
+#### [Training Days](https://github.com/lauravitalc/codecademy-javascript/blob/main/scope-training-days.js)
