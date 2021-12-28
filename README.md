@@ -25,3 +25,17 @@ Todo esse conteúdo é parte dos cursos do codecademy. Alguns deles são PRO! N�
 ### Scope
 
 #### [Training Days](https://github.com/lauravitalc/codecademy-javascript/blob/main/scope-training-days.js)
+
+### Arrays
+
+#### [Secret Message](https://github.com/lauravitalc/codecademy-javascript/blob/main/arrays-secret-message.js)
+
+### Loops
+
+#### [Whale Talk](https://github.com/lauravitalc/codecademy-javascript/blob/main/loops-whale-talk.js)
+
+### Methods
+
+####
+
+### Objects
